@@ -17,4 +17,5 @@ Changelog:
 - Made sure the website met accessibility standards.
 
 
-Screenshot: 
+Screenshot:  ![image](https://github.com/Crent99/homework-1-accessibility/assets/144420438/a057c387-dca6-458a-abfe-2e11387fa37c)
+
