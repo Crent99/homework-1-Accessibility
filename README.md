@@ -11,9 +11,11 @@ Changelog:
 - Removed an h2 header in the footer.
 - Edited HTML tags to be more accessible.
 - Removed div tags.
-- took way too long to get this done :)
+- Took way too long to get this done :)
 - Included 'alt' tags
-- cleaned up the code to make it more accessible to the user.
+- Cleaned up the code to make it more accessible to the user.
+- Made sure everything fell in a sequential order.
+- Made sure the website met accessibility standards.
 
 
 Screenshot:
