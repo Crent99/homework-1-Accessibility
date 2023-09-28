@@ -18,5 +18,4 @@ Changelog:
 - Made sure the website met accessibility standards.
 
 
-Screenshot:
-
+Screenshot: 
